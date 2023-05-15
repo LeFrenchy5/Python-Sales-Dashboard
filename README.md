@@ -1,4 +1,4 @@
-# Python-Stock-Market-Dashboard
+# Python-Sales-Dashboard
 
 <h4>Question:</h4> Using Python and the sales datasheet, create a dashboard that shows total sales, average rating, and sales per transaction. Create graphs to display visual insights into the data and use multiple filters that users can choose from.
 
